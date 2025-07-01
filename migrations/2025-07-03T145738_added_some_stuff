@@ -1,0 +1,10 @@
+ecoadd "Test Ecosystem"
+ecoadd "Bitcoin The Sequel"
+ecoadd GetAlby
+ecocon Bitcoin GetAlby
+ecocon "Bitcoin The Sequel" GetAlby
+ecocon "Bitcoin The Sequel" Merlin
+repadd "Bitcoin The Sequel" https://github.com/scaboodles/trashplanet
+repadd "Bitcoin The Sequel" https://github.com/scaboodles/cursed_tetris
+repadd "Bitcoin The Sequel" https://github.com/scaboodles/sitemk3
+repadd "Bitcoin The Sequel" https://github.com/scaboodles/cheat-at-wordle
