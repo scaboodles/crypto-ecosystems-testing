@@ -1,0 +1,9 @@
+ecoadd "test with spaces"
+ecoadd "bitcoin 2"
+ecocon "bitcoin 2" "test with spaces"
+ecocon Bitcoin "bitcoin 2"
+ecocon "test with spaces" Lightning
+repadd "test with spaces" https://github.com/scaboodles/trashplanet
+repadd "test with spaces" https://github.com/scaboodles/cursed_tetris
+repadd Lightning https://github.com/scaboodles/sitemk3
+repadd "bitcoin 2" https://github.com/scaboodles/cheat-at-wordle
