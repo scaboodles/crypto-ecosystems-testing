@@ -1,0 +1,10 @@
+ecoadd "multi token eco"
+ecoadd BitcoinTheSequel
+ecocon "multi token eco" Bitcoin
+ecocon Bitcoin BitcoinTheSequel
+repadd BitcoinTheSequel https://github.com/scaboodles/trashPlanet
+repadd BitcoinTheSequel https://github.com/scaboodles/cursed_tetris
+repadd BitcoinTheSequel https://github.com/scaboodles/sitemk3
+repadd "multi token eco" https://github.com/scaboodles/sitemk3
+repadd "multi token eco" https://github.com/scaboodles/cursed_tetris
+repadd "multi token eco" https://github.com/scaboodles/trashplanet
